@@ -1,1 +1,1 @@
-# cs50_exercises
+# CS50_exercises
